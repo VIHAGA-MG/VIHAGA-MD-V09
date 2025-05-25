@@ -17,7 +17,7 @@ l
 
 <div align="center">
  
-  <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
+  <h1>MADE BY VIHAGA SITHUM</h1>
 </div>
 
 
