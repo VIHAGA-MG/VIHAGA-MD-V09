@@ -20,6 +20,13 @@ l
   <h1>MADE BY VIHAGA SITHUM</h1>
 </div>
 
+## 🤖 VIHAGA MD V09
+A Powerful WhatsApp Bot created by **Vihaga Sithum** using Baileys library and Node.js
+
+### 👤 Developer:
+- Name: **Vihaga Sithum**
+- GitHub: [VIHAGA-MG](https://github.com/VIHAGA-MG)
+
 
 
 ## Workflow Deploy Code 👇
