@@ -58,13 +58,6 @@ l
 
 ### 📦 Installation Steps
 
-```bash
-git clone https://github.com/VIHAGA-MG/VIHAGA-MD-V09
-cd VIHAGA-MD-V09
-npm install
-node index.js
-
-
     Vihaga MD V09...
 
     [©] New Features
