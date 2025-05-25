@@ -20,12 +20,51 @@ l
   <h1>MADE BY VIHAGA SITHUM</h1>
 </div>
 
-## 🤖 VIHAGA MD V09
-A Powerful WhatsApp Bot created by **Vihaga Sithum** using Baileys library and Node.js
+# 🤖 VIHAGA MD V09 - WhatsApp Bot
 
-### 👤 Developer:
-- Name: **Vihaga Sithum**
-- GitHub: [VIHAGA-MG](https://github.com/VIHAGA-MG)
+**VIHAGA MD** යනු Node.js සහ Baileys WebSocket API භාවිතා කර නිර්මාණය කළ ශක්තිමත් WhatsApp Bot එකකි. මෙය වඩාත්ම භාවිතා කළ හැකි, සැකසිය හැකි, සහ plugin-based පදනමක් මත ක්‍රියා කරන bot එකක් වේ.
+
+---
+
+## 👤 Developer
+
+- 🔸 **Name**: Vihaga Sithum
+- 🔗 **GitHub**: [VIHAGA-MG](https://github.com/VIHAGA-MG)
+- 🛠️ **Version**: V09
+
+---
+
+## ✨ Features
+
+- ✅ Auto Reply System
+- ✅ AI Chat (ChatGPT API Support)
+- ✅ Group Management Commands
+- ✅ YouTube, TikTok, Facebook Downloader
+- ✅ Sticker Creator
+- ✅ Fun Commands (Jokes, Quotes, Memes)
+- ✅ Anti-Link & Anti-Spam System
+- ✅ Owner Commands (Ban, Broadcast, Shutdown, etc.)
+- ✅ JSON or MongoDB Database Support (optional)
+- ✅ Fully customizable plugin-based structure
+
+---
+
+## 🖥️ Installation
+
+### ⚙️ Requirements
+
+- Node.js v18+
+- Git
+- Termux / Linux / Windows Terminal
+- WhatsApp Account (to scan QR)
+
+### 📦 Installation Steps
+
+```bash
+git clone https://github.com/VIHAGA-MG/VIHAGA-MD-V09
+cd VIHAGA-MD-V09
+npm install
+node index.js
 
 
 
